@@ -83,5 +83,11 @@ footer {
 }
 
 #om-oss p {
-  width: 640px;
+  max-width: 640px;
+  width: 100%;
 }
+
+/*
+Fel:
+  * 1:  X om oss saknar maxvidd
+*/
